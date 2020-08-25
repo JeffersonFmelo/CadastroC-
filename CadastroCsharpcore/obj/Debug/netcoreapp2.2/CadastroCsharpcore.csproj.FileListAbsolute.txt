@@ -1,0 +1,11 @@
+J:\CadastroCsharpcore\CadastroCsharpcore\bin\Debug\netcoreapp2.2\CadastroCsharpcore.deps.json
+J:\CadastroCsharpcore\CadastroCsharpcore\bin\Debug\netcoreapp2.2\CadastroCsharpcore.runtimeconfig.json
+J:\CadastroCsharpcore\CadastroCsharpcore\bin\Debug\netcoreapp2.2\CadastroCsharpcore.runtimeconfig.dev.json
+J:\CadastroCsharpcore\CadastroCsharpcore\bin\Debug\netcoreapp2.2\CadastroCsharpcore.dll
+J:\CadastroCsharpcore\CadastroCsharpcore\bin\Debug\netcoreapp2.2\CadastroCsharpcore.pdb
+J:\CadastroCsharpcore\CadastroCsharpcore\obj\Debug\netcoreapp2.2\CadastroCsharpcore.csprojAssemblyReference.cache
+J:\CadastroCsharpcore\CadastroCsharpcore\obj\Debug\netcoreapp2.2\CadastroCsharpcore.csproj.CoreCompileInputs.cache
+J:\CadastroCsharpcore\CadastroCsharpcore\obj\Debug\netcoreapp2.2\CadastroCsharpcore.AssemblyInfoInputs.cache
+J:\CadastroCsharpcore\CadastroCsharpcore\obj\Debug\netcoreapp2.2\CadastroCsharpcore.AssemblyInfo.cs
+J:\CadastroCsharpcore\CadastroCsharpcore\obj\Debug\netcoreapp2.2\CadastroCsharpcore.dll
+J:\CadastroCsharpcore\CadastroCsharpcore\obj\Debug\netcoreapp2.2\CadastroCsharpcore.pdb
